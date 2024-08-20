@@ -1,0 +1,5 @@
+../Library/microtbx-modbus/tbxmb_port.c:76:6:TbxMbPortUartInit	1
+../Library/microtbx-modbus/tbxmb_port.c:117:9:TbxMbPortUartTransmit	1
+../Library/microtbx-modbus/tbxmb_port.c:170:10:TbxMbPortTimerCount	1
+../Library/microtbx-modbus/tbxmb_port.c:201:6:TbxMbPortUartTxInterrupt	2
+../Library/microtbx-modbus/tbxmb_port.c:246:6:TbxMbPortUartRxInterrupt	2
